@@ -1,5 +1,5 @@
 # Sparta-tic-tac-toe-2
-# Sparta_Tic_Tac_toe
+
 **Description**
 
 Task was to build tic-tac-toe in pairs, using javascript.
